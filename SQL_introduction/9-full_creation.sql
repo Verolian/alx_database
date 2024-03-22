@@ -1,4 +1,4 @@
---create the second_table in the database hbtn_0c_0 and add the specified rows with the given values..
+-- create the second_table in the database hbtn_0c_0 and add the specified rows with the given values..
 CREATE TABLE IF NOT EXISTS second_table (
     id INT PRIMARY KEY,
     name VARCHAR(256),
