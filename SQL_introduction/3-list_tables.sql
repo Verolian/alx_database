@@ -1,2 +1,2 @@
---SQL script to list all tables in a specified database.
+-- SQL script to list all tables in a specified database.
 SHOW TABLES;
